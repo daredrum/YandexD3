@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+svg {
+    margin: 5%;
+    width: 80%;
+    height: 80%;
+    border: 2px solid #e2e2e2;
+}
+circle {
+  -webkit-transition: fill .1s ease;
+	 	-moz-transition: fill .1s ease;
+	 	-o-transition: fill .1s ease;
+	 	transition: fill .1s ease;
+}
